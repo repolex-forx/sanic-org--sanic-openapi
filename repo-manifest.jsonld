@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/sanic-org/sanic-openapi/commit/872d38f2599bdeab0b5456595ab81612344a7f3d",
       "git:hexsha": "872d38f2599bdeab0b5456595ab81612344a7f3d",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v21.12.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v21.12.0",
+      "repolex:parsedAt": "2026-11-07T11:45:20.934705+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sanic-org/sanic-openapi/commit/7a716eeb63f85661ea088e041a9d21efef0ca634",
