@@ -1,0 +1,7 @@
+[2026-11-07T11:19:12Z] === AST ITERATION 1 START | repo=sanic-org/sanic-openapi sha=872d38f2 ===
+[2026-11-07T11:19:12Z] [iter=1] PHASE START: ast repo=sanic-org/sanic-openapi sha=872d38f2
+[2026-11-07T11:19:12Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T11:41:27Z] [iter=1] AST chunks built count=2 triples=9634575
+[2026-11-07T11:41:27Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/872d38f2599bdeab0b5456595ab81612344a7f3d/.complete
+[2026-11-07T11:41:27Z] [iter=1] PHASE END: ast elapsed_s=1335 elapsed_min=22.3
+[2026-11-07T11:41:27Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
